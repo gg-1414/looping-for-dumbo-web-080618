@@ -1,4 +1,3 @@
-
 def using_for
 	checklist = 1..10
 	for check in checklist
@@ -6,4 +5,4 @@ def using_for
 	end
 end
 
-
+using_for
